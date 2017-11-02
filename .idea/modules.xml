@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud2/cloud2.iml" filepath="$PROJECT_DIR$/cloud2/cloud2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud3/cloud2 (1).iml" filepath="$PROJECT_DIR$/cloud3/cloud2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_config/cloud_config.iml" filepath="$PROJECT_DIR$/cloud_config/cloud_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_feign/cloud_feign.iml" filepath="$PROJECT_DIR$/cloud_feign/cloud_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_ribbon/cloud_ribbon.iml" filepath="$PROJECT_DIR$/cloud_ribbon/cloud_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_zuul/cloud_zuul.iml" filepath="$PROJECT_DIR$/cloud_zuul/cloud_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+    </modules>
+  </component>
+</project>
