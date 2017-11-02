@@ -20,6 +20,7 @@ public class HelloController {
     @Autowired
     private DiscoveryClient client;
 
+    //注入端口
     @Value("${server.port}")
     String port;
 
